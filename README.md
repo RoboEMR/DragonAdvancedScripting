@@ -2,6 +2,8 @@
 
 We invite you to ask any and all questions you may have.  We will do our best to answer them in a timely fashion.  Do this by clicking on the "Issues" tab, and clicking "New Issue".
 
+We will be filling in the folders on this page with automation scripts that you can use right away by copying and pasting them directly into Dragon.  
+
 Goals:
 
 - Create an Open Source Library of the most useful automation tools for saving time in Epic

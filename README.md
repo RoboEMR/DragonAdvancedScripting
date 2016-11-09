@@ -7,4 +7,4 @@ Goals:
 - Create a Library of the most useful automation tools for saving time in Epic
 - Evolve these tools with the help of the group to be the most reliable Library available
 - Help users who are stuck with a specific automation problem find the best solution to meet their needs
-- Grow the community of super cool people who are excited about automating their EMR
+- Grow the community of super cool people who are excited about EMR automation

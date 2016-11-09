@@ -1,4 +1,4 @@
-![RoboEMR](http://url/to/img.png)
+![RoboEMR](https://github.com/RoboEMR/DragonAdvancedScripting/blob/master/logo.png?raw=true)
 
 ### Welcome to the RoboEMR community for Dragon Advanced Scripting.  This group is maintained and operated by lovers of EMR (Electronic Medical Record) automation.  We're glad you're here.  
 

@@ -1,3 +1,5 @@
+![RoboEMR](http://url/to/img.png)
+
 ### Welcome to the RoboEMR community for Dragon Advanced Scripting.  This group is maintained and operated by lovers of EMR (Electronic Medical Record) automation.  We're glad you're here.  
 
 We invite you to ask any and all questions you may have.  We will do our best to answer them in a timely fashion.  Do this by clicking on the "Issues" tab, and clicking "New Issue".

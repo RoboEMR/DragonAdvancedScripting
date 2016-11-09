@@ -7,7 +7,7 @@ We will be filling in the folders on this page with automation scripts that you 
 Goals:
 
 - Create an Open Source Library of the most useful automation tools for saving time in Epic
-- Evolve these tools with the help of the group to be the best & most reliable Library available
+- Evolve these tools with the help of the group to be the **best & most reliable** Library available
 - Help users who are stuck with a specific automation problem find the best solution to meet their needs
 - Grow the community of super cool people who are excited about EMR automation
 

@@ -1,0 +1,7 @@
+'Tested on Epic 2014, Providence Health & Services Build
+'Name the command something like "open progress note"
+
+SendDragonKeys "{Control+Shift+n}"
+Wait 1.5
+SendDragonKeys ".mytemplatehere"
+SendDragonKeys "{Enter}"

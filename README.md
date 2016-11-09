@@ -12,3 +12,6 @@ Goals:
 - Grow the community of super cool people who are excited about EMR automation
 
 ![RoboEMR](https://github.com/RoboEMR/DragonAdvancedScripting/blob/master/logo.png?raw=true)
+
+Thanks, 
+The RoboEMR Team
